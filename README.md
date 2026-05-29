@@ -188,13 +188,21 @@ I am interested in collaborating on:
 
 📍 Lagos, Nigeria
 
-💼 Open to internships, collaborations, freelance projects, and entry-level opportunities in:
+🔗 LinkedIn: https://www.linkedin.com/in/nenkimwagokop
+💻 GitHub: https://github.com/NenKimwa
 
-* AI Automation
-* Healthcare Analytics
-* Data Analytics
-* Healthcare Technology
-* Healthcare Operations
+📺 YouTube: 
+📧 Email: nenkimwagokop3@gmail.com 
+
+💼 Open to:
+
+* AI Automation Projects
+* Healthcare Analytics Projects
+* Data Analytics Opportunities
+* Healthcare Technology Collaborations
+* Freelance Automation Solutions
+* Entry-Level AI & Analytics Roles
+
 
 ---
 
