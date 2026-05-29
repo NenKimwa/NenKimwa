@@ -7,6 +7,20 @@ I'm a Medical Administrator and Client Service Delivery Executive based in Lagos
 My mission is to bridge the gap between healthcare operations and intelligent technology by building AI-powered systems that improve efficiency, decision-making, and patient experience.
 
 ---
+## 🔥 Currently Building
+
+🚀 AI-Powered Healthcare Appointment Agent
+
+A production-ready WhatsApp-based healthcare booking and enquiry management system.
+
+**Tech Stack:**
+- WhatsApp
+- Twilio
+- n8n
+- Airtable
+- OpenAI
+- AI Agents
+---
 
 ## 🚀 About Me
 
@@ -16,6 +30,8 @@ My mission is to bridge the gap between healthcare operations and intelligent te
 * 📈 Experienced in reporting, data management, and operational workflows
 * 🌍 Interested in Healthcare AI, Data Science, and Intelligent Business Systems
 * 🚀 Currently building AI-powered solutions for healthcare operations
+
+---
 
 ---
 
@@ -75,11 +91,7 @@ Skills acquired:
 
 ---
 
-## 🚀 Current Project
 
-### AI-Powered Healthcare Appointment Agent
-
-A production-ready WhatsApp-based appointment booking and enquiry management system designed to automate patient interactions and scheduling workflows.
 
 **Technologies Used:**
 
@@ -119,14 +131,15 @@ A production-ready WhatsApp-based appointment booking and enquiry management sys
 ### Vector Inc Data Cleaning
 
 Improved data quality by identifying and correcting inconsistencies, duplicate records, missing values, and formatting issues to improve reliability for analysis.
+🔗 Repository:
+https://github.com/NenKimwa/Vector-Inc-Data-Cleaning-
 
 ### Savvy Solutions Africa Data Cleaning Solution
-
 Performed data preparation and cleaning to improve data accuracy, consistency, and usability for business decision-making.
 
 ### AI-Powered Healthcare Appointment Agent
-
 Built an intelligent WhatsApp-based appointment booking system that automates patient interactions, appointment scheduling, and data capture.
+
 
 ---
 
@@ -164,7 +177,7 @@ I am interested in collaborating on:
 
 ## 📈 GitHub Snapshot
 
-* 📂 Public Repositories: Growing
+* 📂 Public Repositories: 6+
 * 🤖 AI Automation Projects: In Progress
 * 📊 Data Cleaning Projects: Multiple Completed Projects
 * 🚀 Current Flagship Project: AI Healthcare Appointment Agent
