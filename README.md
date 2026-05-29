@@ -1,4 +1,4 @@
-# Hi, I'm Nenkimwa Simon Gokop 👋
+# Hi, I'm Nenkimwa Gokop 👋
 
 ## Healthcare Operations Professional | AI Automation Engineer | Healthcare Analytics Enthusiast
 
